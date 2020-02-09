@@ -8,5 +8,6 @@ REPOSITORY CONTENT
 IMPORTANT:
 Other files are part of a bigger folder witch contains the full Android Studio project. The following link stores it too, joint together:
 
+https://drive.google.com/drive/folders/1Cl7tFwrMsOsCn7KIULC53uj8VuR5sopA?usp=sharing
 
 Thank you very much for taking a look into this project.
